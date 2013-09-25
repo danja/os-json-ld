@@ -1,0 +1,29 @@
+{
+  "head": {
+    "link": "http://osld.co.uk/datasets/combined/apis/search?query=%22Combe+Down%22&lat=51.378190&lon=-2.365012&r=5&max=10&offset=0&output=json",
+    "searchTerms": "\"Combe Down\"",
+    "startIndex": 0,
+    "totalResults": 1,
+    "lat": "51.378190",
+    "lon": "-2.365012",
+    "r": "5",
+    "itemsPerPage": "10"
+  },
+  "results": [
+    {
+      "title": "Combe Down",
+      "link": "http://data.ordnancesurvey.co.uk/id/7000000000000503",
+      "gssCode": "E05001943",
+      "hasAreaCode": "UTW",
+      "hasCensusCode": "00HANY",
+      "hasUnitID": "503",
+      "easting": 375963.7,
+      "northing": 162621.5,
+      "point": "51.362143,-2.346616",
+      "type": "http://data.ordnancesurvey.co.uk/ontology/admingeo/UnitaryAuthorityWard",
+      "label": "Combe Down",
+      "notation": "00HANY",
+      "score": 7.942893
+    }
+  ]
+}

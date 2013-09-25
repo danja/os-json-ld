@@ -1,0 +1,15 @@
+easting,http://data.ordnancesurvey.co.uk/ontology/spatialrelations/easting
+gssCode,http://data.ordnancesurvey.co.uk/ontology/admingeo/gssCode
+hasAreaCode,http://data.ordnancesurvey.co.uk/ontology/admingeo/hasAreaCode
+hasCensusCode,http://data.ordnancesurvey.co.uk/ontology/admingeo/hasCensusCode
+hasUnitId,http://data.ordnancesurvey.co.uk/ontology/admingeo/hasUnitID
+hectares,http://data.ordnancesurvey.co.uk/ontology/geometry/hectares
+label,http://www.w3.org/2000/01/rdf-schema#label
+LH,http://data.ordnancesurvey.co.uk/ontology/postcode/LH
+northing,http://data.ordnancesurvey.co.uk/ontology/spatialrelations/northing
+notation,http://www.w3.org/2004/02/skos/core#notation
+point,http://www.georss.org/georss/point
+PQ,http://data.ordnancesurvey.co.uk/ontology/postcode/PQ
+prefLabel,http://www.w3.org/2004/02/skos/core#prefLabel
+RH,http://data.ordnancesurvey.co.uk/ontology/postcode/RH
+type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type
