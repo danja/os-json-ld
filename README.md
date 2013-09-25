@@ -21,8 +21,10 @@ current status:
 only looking at one instance from the results block (will need URIs for meta terms)
 
 node read.js 
+
 ERROR jsonld.CompactError: Could not expand input before compaction.
 
 seems likely that it's down to the levels of nesting within the context and/or data
+
 not entirely clear about options in jsonld.js, see read.js
 
